@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\bin\Debug\net8.0\Rena.Domain.deps.json
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\bin\Debug\net8.0\Rena.Domain.dll
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\bin\Debug\net8.0\Rena.Domain.pdb
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\obj\Debug\net8.0\Rena.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\obj\Debug\net8.0\Rena.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\obj\Debug\net8.0\Rena.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\obj\Debug\net8.0\Rena.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\obj\Debug\net8.0\Rena.Domain.dll
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\obj\Debug\net8.0\refint\Rena.Domain.dll
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\obj\Debug\net8.0\Rena.Domain.pdb
+C:\Users\Admin\source\repos\Rena.API\Rena.Domain\obj\Debug\net8.0\ref\Rena.Domain.dll

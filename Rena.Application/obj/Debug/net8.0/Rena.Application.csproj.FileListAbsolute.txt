@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\bin\Debug\net8.0\Rena.Application.deps.json
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\bin\Debug\net8.0\Rena.Application.dll
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\bin\Debug\net8.0\Rena.Application.pdb
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\bin\Debug\net8.0\Rena.Domain.dll
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\bin\Debug\net8.0\Rena.Domain.pdb
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\Rena.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\Rena.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\Rena.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\Rena.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\Rena.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\Rena.App.F2923E60.Up2Date
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\Rena.Application.dll
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\refint\Rena.Application.dll
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\Rena.Application.pdb
+C:\Users\Admin\source\repos\Rena.API\Rena.Application\obj\Debug\net8.0\ref\Rena.Application.dll

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Rena.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C4D59B-722B-4699-9B13-924C1613C271}|Rena.API\\Rena.API.csproj|c:\\users\\admin\\source\\repos\\rena.api\\rena.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40C4D59B-722B-4699-9B13-924C1613C271}|Rena.API\\Rena.API.csproj|solutionrelative:rena.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C4D59B-722B-4699-9B13-924C1613C271}|Rena.API\\Rena.API.csproj|c:\\users\\admin\\source\\repos\\rena.api\\rena.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C4D59B-722B-4699-9B13-924C1613C271}|Rena.API\\Rena.API.csproj|solutionrelative:rena.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDA595-72DA-4115-90FF-BC7819ED314D}|Rena.Application\\Rena.Application.csproj|c:\\users\\admin\\source\\repos\\rena.api\\rena.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDA595-72DA-4115-90FF-BC7819ED314D}|Rena.Application\\Rena.Application.csproj|solutionrelative:rena.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDA595-72DA-4115-90FF-BC7819ED314D}|Rena.Application\\Rena.Application.csproj|c:\\users\\admin\\source\\repos\\rena.api\\rena.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDA595-72DA-4115-90FF-BC7819ED314D}|Rena.Application\\Rena.Application.csproj|solutionrelative:rena.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDA595-72DA-4115-90FF-BC7819ED314D}|Rena.Application\\Rena.Application.csproj|c:\\users\\admin\\source\\repos\\rena.api\\rena.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDA595-72DA-4115-90FF-BC7819ED314D}|Rena.Application\\Rena.Application.csproj|solutionrelative:rena.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 891,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Rena.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Rena.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAADwv6gAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:09:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Rena.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Rena.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:07:46.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.Application\\DTOs\\Products\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Rena.Application\\DTOs\\Products\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.Application\\DTOs\\Products\\UpdateProductDto.cs",
+              "RelativeToolTip": "Rena.Application\\DTOs\\Products\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:06:43.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Rena.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Rena.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:02:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Rena.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Rena.API\\Rena.API\\appsettings.json",
+              "RelativeToolTip": "Rena.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T21:51:11.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
