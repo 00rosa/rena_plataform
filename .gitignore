@@ -1,0 +1,35 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vcxproj
+*.vcxproj.filters
+.vs/
+
+# Archivos de compilación
+Debug/
+Release/
+x64/
+x86/
+
+# Base de datos
+*.mdf
+*.ldf
+*.sdf
+
+# Configuraciones sensibles
+appsettings.Development.json
+appsettings.private.json
+*.secret.config
+
+# Archivos de usuario
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
